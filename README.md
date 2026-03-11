@@ -14,7 +14,6 @@ Versiones sugeridas
 Estructura
 ----------
 - script.js → script principal de k6 dónde también se encuentran los usuarios
-- reports/ → textSummary.txt y summary.json al finalizar la ejecución
 
 Instalación k6 (ejemplos)
 -------------------------
