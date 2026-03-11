@@ -1,0 +1,14 @@
+Conclusiones – Prueba de Carga Login FakeStoreAPI
+=================================================
+
+1) Criterios de aceptación
+- p95<=1500 ms y error<3%.
+
+2) Resultados (completar tras ejecución)
+- p(95)<1500 = OK (260ms ✓)
+- checks>0.97 = FALLÓ (solo 66.6% de checks pasaron — 2940/4412)
+- error_rate<0.03 = OK (0.07% ✓)
+
+3) Observaciones y recomendaciones
+- Ajustar VUs si hay colas.
+- Revisar variabilidad de latencia y outliers.
