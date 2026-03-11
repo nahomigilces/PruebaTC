@@ -13,8 +13,7 @@ Versiones sugeridas
 
 Estructura
 ----------
-- login_load_test.js → script principal de k6
-- data/users.csv → datos de entrada (usuario,password)
+- script.js → script principal de k6 dónde también se encuentran los usuarios
 - reports/ → textSummary.txt y summary.json al finalizar la ejecución
 
 Instalación k6 (ejemplos)
