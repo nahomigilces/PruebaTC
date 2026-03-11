@@ -9,7 +9,7 @@ Ejecutar una prueba de carga del endpoint POST https://fakestoreapi.com/auth/log
 Versiones sugeridas
 -------------------
 - k6 v0.49+
-- SO: Windows/macOS/Linux
+- SO: Windows
 
 Estructura
 ----------
